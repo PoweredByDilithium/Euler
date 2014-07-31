@@ -1,4 +1,6 @@
-Euler
+Project Euler Java
 =====
 
-Project Euler
+A repository of Project Euler solutions done in java
+
+Original problems can be found at projecteuler.net
