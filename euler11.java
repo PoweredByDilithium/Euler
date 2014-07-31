@@ -32,7 +32,7 @@ import java.io.*;
 import java.util.*;
 import java.math.*;
 
-class adjprod {
+class euler11 {
 
 	public static Integer product(ArrayList<Integer> lst){
 		int maxProduct  = 1;
