@@ -20,7 +20,7 @@ NOTE: Once the chain starts the terms are allowed to go above one million.
 import java.lang.*;
 import java.util.*;
 
-class collatz {
+class euler14 {
 	 
 	 public static void main(String[] args){
 		int longest = 0;
